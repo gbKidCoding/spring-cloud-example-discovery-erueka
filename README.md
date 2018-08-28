@@ -1,2 +1,2 @@
-# spring-cloud-example-discovery-erueka
-spring-cloud-example-discovery-erueka
+# spring-cloud-example-discovery-eureka
+spring-cloud-example-discovery-eureka
