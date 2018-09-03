@@ -28,6 +28,7 @@
         <module>eureka-client</module>
         <module>eureka-server</module>
         <module>user-server</module>
+        <module>hystrix-dashboard</module>
     </modules>
 
     <dependencyManagement>
